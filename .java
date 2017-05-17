@@ -1,6 +1,6 @@
 # trabalhoES2
 Trabalho da disciplina Engenharia de Software 2
-	git commit Fiz nada
+
 	
 
 public class Forma {	
